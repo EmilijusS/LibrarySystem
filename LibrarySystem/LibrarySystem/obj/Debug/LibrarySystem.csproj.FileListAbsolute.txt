@@ -1,0 +1,10 @@
+c:\users\emis\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\Data\BookCopies.txt
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\Data\Books.txt
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\Data\Readers.txt
+C:\Users\Emis\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\Data\Supervisor.txt
